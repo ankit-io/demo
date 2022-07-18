@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 5rem 20rem;
+  height: 100vh;
+  background-image: url("./background.png");
+  /* background-repeat: ; */
+}
+
+.select-css {
+  color: #822b55;
+  background-color: rgba(253, 221, 226, 0);
+  font-family: "Rubik", sans-serif;
+  text-align: left;
+  font-size: 25px;
+  border: none !important;
+}
+
+.body {
+  font-family: "Rubik", sans-serif;
+  font-size: 55px;
+  margin-top: 12rem;
+  text-align: left;
+  color: #822b55 !important;
+  /* padding-left: 7rem; */
+  padding-right: 25rem;
+  font-weight: 650;
+}
